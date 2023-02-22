@@ -31,7 +31,7 @@ I am a Full Stack Developer with a background in nursing, informatics, and syste
 
 Looking forward to apply transferrable skills I gained as a nurse and informatics specialist to my career in tech. Let's chat about tech and interesting opportunities!
 
- ✨ 👩🏻‍💻  ✨
+ ## ✨ 👩🏻‍💻  ✨
 <details>
 <summary>My Top Tech Stacks</summary>
 
