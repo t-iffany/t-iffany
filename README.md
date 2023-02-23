@@ -63,7 +63,7 @@ Looking forward to apply transferrable skills I gained as a nurse and informatic
 
 <table>  
   <tr>
-    <td align="left">Languages</td>
+    <td align="left" width="10">Languages</td>
   </tr>
   <tr>
     <td align="center" height="20" width="10">
@@ -114,7 +114,7 @@ Looking forward to apply transferrable skills I gained as a nurse and informatic
   </tr>
 
   <tr>
-    <td align="left">Frameworks/Libraries</td>
+    <td align="left" width="10">Frameworks</td>
   </tr>
   <tr>
     <td align="center" height="20" width="20">
@@ -174,7 +174,7 @@ Looking forward to apply transferrable skills I gained as a nurse and informatic
   </tr>
 
   <tr>
-    <td align="left">Databases</td>
+    <td align="left" width="10">Databases</td>
   </tr>
   <tr>
     <td align="center" height="20" width="20">
@@ -198,7 +198,7 @@ Looking forward to apply transferrable skills I gained as a nurse and informatic
   </tr>
 
   <tr>
-    <td align="left">Testing</td>
+    <td align="left" width="10">Testing</td>
   </tr>
   <tr>
     <td align="center" height="20" width="20">
