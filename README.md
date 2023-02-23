@@ -23,16 +23,30 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a Full Stack Developer with a background in nursing, informatics, and systems implementations.
-
+<p align="center">
+✨ 👩🏻‍💻 ✨
+<br>
+I'm a Full Stack Developer with a background in nursing, informatics, and systems implementations
+</p>
 • Analytical problem solver with proven ability for empathizing with end-users, collaboration, communication, and adaptability
 
 • Determined to develop and optimize scalable websites and applications
 
 Looking forward to apply transferrable skills I gained as a nurse and informatics specialist to my career in tech. Let's chat about tech and interesting opportunities!
 
- ## ✨ 👩🏻‍💻  ✨
-<details>
+<br>
+
+# 📈 Stats:
+<p align="left">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=t-iffany&langs_count=14&hide=yacc,cmake&show_icons=true&locale=en&layout=compact" width="45%" alt="t-pirozzini"/> 
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=t-iffany&show_icons=true&locale=en" width="50%" alt="t-pirozzini" />  
+</p>
+
+<br>
+
+ # 💻 Technologies:
+
+<!-- <details>
 <summary>My Top Tech Stacks</summary>
 
 |           |
@@ -45,4 +59,200 @@ Looking forward to apply transferrable skills I gained as a nurse and informatic
 | HTML      |
 | CSS       |
 
-</details>
+</details> -->
+
+<table>  
+  <tr>
+    <td align="left">Languages</td>
+  </tr>
+  <tr>
+    <td align="center" height="20" width="10">
+      <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+        width="25"
+        height="25"
+        alt="HTML"
+      />
+      <br /><strong>HTML</strong>
+    </td>
+    <td align="center" height="20" width="10">
+      <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
+        width="25"
+        height="25"
+        alt="CSS"
+      />
+      <br /><strong>CSS</strong>
+    </td>
+    <td align="center" height="20" width="10">
+      <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+        width="25"
+        height="25"
+        alt="JAVASCRIPT"
+      />
+      <br /><strong>JavaScript</strong>
+    </td>
+    <td align="center" height="20" width="20">
+      <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg"
+        width="25"
+        height="25"
+        alt="RUBY"
+      />
+      <br /><strong>Ruby</strong>
+    </td>
+    <td align="center" height="20" width="20">
+      <img
+        src="https://cdn-icons-png.flaticon.com/512/2772/2772165.png"
+        width="25"
+        height="25"
+        alt="SQL"
+      />
+      <br /><strong>SQL</strong>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="left">Frameworks/Libraries</td>
+  </tr>
+  <tr>
+    <td align="center" height="20" width="20">
+      <img
+        src="https://cdn.freebiesupply.com/logos/large/2x/nodejs-icon-logo-png-transparent.png"
+        width="25"
+        height="25"
+        alt="NODEJS"
+      />
+      <br /><strong>NodeJS</strong>
+    </td>
+    <td align="center" height="20" width="20">
+      <img
+        src="https://jsurt.github.io/jacks-portfolio/images/color-express-icon%20(1).png"
+        width="25"
+        height="25"
+        alt="EXPRESS"
+      />
+      <br /><strong>Express</strong>
+    </td>
+    <td align="center" height="20" width="20">
+      <img
+        src="https://cdn.iconscout.com/icon/free/png-256/rails-3521664-2945108.png"
+        width="25"
+        height="25"
+        alt="RAILS"
+      />
+      <br /><strong>Rails</strong>
+    </td>
+    <td align="center" height="20" width="20">
+      <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+        width="25"
+        height="25"
+        alt="REACT"
+      />
+      <br /><strong>React</strong>
+    </td>
+    <!-- <td align="center" height="20" width="20">
+      <img
+        src="https://i.dlpng.com/static/png/7044160_preview.png"
+        width="25"
+        height="25"
+        alt="JQUERY"
+      />
+      <br /><strong>jQuery</strong>
+    </td> -->
+    <td align="center" height="20" width="20">
+      <img
+        src="https://pbs.twimg.com/profile_images/833789473376854018/skScegH6_400x400.jpg"
+        width="25"
+        height="25"
+        alt="EJS"
+      />
+      <br /><strong>EJS</strong>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="left">Databases</td>
+  </tr>
+  <tr>
+    <td align="center" height="20" width="20">
+        <img
+          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
+          width="25"
+          height="25"
+          alt="POSTGRESQL"
+        />
+        <br /><strong>PostgreSQL</strong>
+      </td>
+      <td align="center" height="20" width="20">
+        <img
+          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
+          width="25"
+          height="25"
+          alt="MYSQL"
+        />
+        <br /><strong>mySQL</strong>
+      </td>     
+  </tr>
+
+  <tr>
+    <td align="left">Testing</td>
+  </tr>
+  <tr>
+    <td align="center" height="20" width="20">
+      <img
+        src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg"
+        width="25"
+        height="25"
+        alt="CYPRESS"
+      />
+      <br /><strong>Cypress</strong>
+    </td>
+    <td align="center" height="20" width="20">
+      <img
+        src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/storybook.png"
+        width="25"
+        height="25"
+        alt="STORYBOOK"
+      />
+      <br /><strong>Storybook</strong>
+    </td>
+    <td align="center" height="20" width="20">
+      <img
+        src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg"
+        width="25"
+        height="25"
+        alt="JEST"
+      />
+      <br /><strong>Jest</strong>
+    </td>
+    <td align="center" height="20" width="20">
+      <img
+        src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg"
+        width="25"
+        height="25"
+        alt="MOCHA"
+      />
+      <br /><strong>Mocha</strong>
+    </td>
+    <td align="center" height="20" width="20">
+      <img
+        src="https://p7.hiclipart.com/preview/626/247/761/mocha-javascript-node-js-test-driven-development-assertion-chai-sheng.jpg"
+        width="25"
+        height="25"
+        alt="CHAI"
+      />
+      <br /><strong>Chai</strong>
+    </td>
+    <td align="center" height="20" width="20">
+      <img
+        src="https://cbabhusal.files.wordpress.com/2015/12/812ab30c5723956adcf8c1bbaf23e471143e1934.png"
+        width="25"
+        height="25"
+        alt="RSPEC"
+      />
+      <br /><strong>RSpec</strong>
+    </td>
+  </tr>  
