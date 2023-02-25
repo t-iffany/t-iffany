@@ -38,8 +38,8 @@ Looking forward to apply transferrable skills I gained as a nurse and informatic
 
 # 📈 Stats:
 <p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=t-iffany&langs_count=14&hide=yacc,cmake&show_icons=true&locale=en&layout=compact" width="45%" alt="t-pirozzini"/> 
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=t-iffany&show_icons=true&locale=en" width="50%" alt="t-pirozzini" />  
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=t-iffany&langs_count=14&hide=yacc,cmake&show_icons=true&locale=en&layout=compact" width="45%" alt="t-iffany"/> 
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=t-iffany&show_icons=true&locale=en" width="50%" alt="t-iffany" />  
 </p>
 
 <br>
