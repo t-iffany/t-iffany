@@ -256,3 +256,58 @@ Looking forward to apply transferrable skills I gained as a nurse and informatic
       <br /><strong>RSpec</strong>
     </td>
   </tr>  
+  <tr>
+    <td align="left" width="10">Databases</td>
+  </tr>
+  <tr>
+    <td align="center" height="20" width="20">
+        <img
+          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
+          width="25"
+          height="25"
+          alt="POSTGRESQL"
+        />
+        <br /><strong>PostgreSQL</strong>
+      </td>
+      <td align="center" height="20" width="20">
+        <img
+          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
+          width="25"
+          height="25"
+          alt="MYSQL"
+        />
+        <br /><strong>mySQL</strong>
+      </td>     
+  </tr>
+
+  <tr>
+    <td align="left" width="10">Tools</td>
+  </tr>
+  <tr>
+    <td align="center" height="20" width="20">
+      <img
+        src="https://cdn.icon-icons.com/icons2/2699/PNG/512/atlassian_jira_logo_icon_170511.png"
+        width="25"
+        height="25"
+        alt="JIRA"
+      />
+      <br /><strong>Jira</strong>
+    </td>
+    <td align="center" height="20" width="20">
+      <img
+        src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/storybook.png"
+        width="25"
+        height="25"
+        alt="STORYBOOK"
+      />
+      <br /><strong>Storybook</strong>
+    </td>
+    <td align="center" height="20" width="20">
+      <img
+        src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg"
+        width="25"
+        height="25"
+        alt="JEST"
+      />
+      <br /><strong>Jest</strong>
+    </td>
