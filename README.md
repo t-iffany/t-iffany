@@ -257,28 +257,7 @@ Looking forward to apply transferrable skills I gained as a nurse and informatic
     </td>
   </tr>  
   <tr>
-    <td align="left" width="10">Databases</td>
-  </tr>
-  <tr>
-    <td align="center" height="20" width="20">
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
-          width="25"
-          height="25"
-          alt="POSTGRESQL"
-        />
-        <br /><strong>PostgreSQL</strong>
-      </td>
-      <td align="center" height="20" width="20">
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-          width="25"
-          height="25"
-          alt="MYSQL"
-        />
-        <br /><strong>mySQL</strong>
-      </td>     
-  </tr>
+  
 
   <tr>
     <td align="left" width="10">Tools</td>
