@@ -304,7 +304,7 @@ Looking forward to apply transferrable skills I gained as a nurse and informatic
     </td>
     <td align="center" height="20" width="20">
       <img
-        src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg"
+        src="https://cdn.icon-icons.com/icons2/3041/PNG/512/slack_logo_icon_189220.png"
         width="25"
         height="25"
         alt="SLACK"
