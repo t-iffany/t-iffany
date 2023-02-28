@@ -295,19 +295,19 @@ Looking forward to apply transferrable skills I gained as a nurse and informatic
     </td>
     <td align="center" height="20" width="20">
       <img
-        src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/storybook.png"
+        src="https://cdn.icon-icons.com/icons2/2429/PNG/512/confluence_logo_icon_147305.png"
         width="25"
         height="25"
-        alt="STORYBOOK"
+        alt="Confluence"
       />
-      <br /><strong>Storybook</strong>
+      <br /><strong>Confluence</strong>
     </td>
     <td align="center" height="20" width="20">
       <img
         src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg"
         width="25"
         height="25"
-        alt="JEST"
+        alt="SLACK"
       />
-      <br /><strong>Jest</strong>
+      <br /><strong>Slack</strong>
     </td>
