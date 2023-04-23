@@ -1,65 +1,130 @@
 # Hi, I'm Tiffany 👋  
 
-<!--
-**t-iffany/t-iffany** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github
-
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
- <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
- <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
-</picture>
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<a href="https://tiffanyleong.vercel.app/" target="_blank">My Portfolio Site</a> || <a href="https://www.linkedin.com/in/tiffanyleong/" target="_blank">LinkedIn</a> || <a href="https://devpost.com/t-iffany" target="_blank">Devpost</a> || <a href="https://resume.creddle.io/resume/fg0759bs3gt" target="_blank">Resume</a>
+<a href="https://tiffanyleong.vercel.app/" target="_blank">My Portfolio Site</a>  |  <a href="https://www.linkedin.com/in/tiffanyleong/" target="_blank">LinkedIn</a>  |  <a href="https://devpost.com/t-iffany" target="_blank">Devpost</a>  |  <a href="https://resume.creddle.io/resume/fg0759bs3gt" target="_blank">Resume</a>
 <br>
 
-Full Stack Developer experienced in systems implementations, informatics, and public health. 
+<h3>
+Full Stack Developer experienced in systems implementations, informatics, and public health. <br><br>
+</h3>
+• 💡  I turn ideas into innovative web solutions <br>
+• 🌱  I’m currently learning <strong>Python</strong>
 
-<br>
+<br><br>
 
 # 👩🏻‍💻 Projects:
 
-<!-- <img src="docs/tiffportfolio.png" alt="Screenshot" width="300"/> -->
-<img src="docs/tiffportfolio.png" alt="Screenshot" style="max-width: 50%; height: auto;"/>
+<table>
+
+<!-- 1st row -->
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Portfolio</h3>
+      <br />
+      <a target="_blank" href="https://tiffanyleong.vercel.app/">
+        <img src="docs/tiffportfolio.png" width="100%">
+      </a>
+      <br />
+      <p>
+        <a href="https://tiffanyleong.vercel.app/" target="_blank">Link</a><br><br>
+        <strong>Javascript | Vite | TailwindCSS | HTML</strong> <br><br> 
+        Check out my personal portfolio site!
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">ZenZone 3D</h3>
+      <br />
+      <a target="_blank" href="https://github.com/t-iffany/cmdf-2023">
+        <img src="docs/zenzone.gif">
+      </a>
+      <br />
+      <p>
+        <a href="https://github.com/t-iffany/cmdf-2023" target="_blank">Repo</a><br><br>
+        <strong>React | Typescript | CSS | HTML | NodeJS | ExpressJS | Spline | Cohere.ai API | Twilio API</strong> <br><br> 
+       •  🏆  2nd Place Winner + Most Creative Use of Twilio Award + Best Use of Cohere API Award (nWPlus Cmd-f Hackathon) <br>
+       •  Interactive 3D game that promotes mental wellness using AI technology
+      </p>
+    </td>
+  </tr>
+  
+<!-- 2nd row -->
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">BinIt!</h3>
+      <br />
+      <a target="_blank" href="https://github.com/t-iffany/roothacks-project">
+        <img src="docs/binit.gif" width="100%">
+      </a>
+      <br />
+      <p>
+        <a href="https://github.com/t-iffany/roothacks-project" target="_blank">Repo</a><br><br>
+        <strong>React | Javascript | CSS | HTML | Python | Flask</strong> <br><br> 
+        •  🏆  Winner of Best Project With At Least One Women-Identifying or Non-Binary Member on the Team (RootHacks Hackathon)<br>
+        •  A full stack application that uses AI to sort waste based on images using computer vision and machine learning algorithms
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">PawHub</h3>
+      <br />
+      <a target="_blank" href="https://github.com/t-iffany/pawhub">
+        <img src="docs/profile.gif" width="100%">
+      </a>
+      <br />
+      <p>
+        <a href="https://github.com/t-iffany/pawhub" target="_blank">Repo</a><br><br>
+        <strong>Javascript | React | Ruby on Rails | PostgreSQL | Bootstrap | Material UI | Axios | Google Maps API | YouTube API</strong> <br><br> 
+        •  A full stack application for pet owners to connect with other pet owners, find local pet resources, and learn about different breeds and pet care. <br>
+        •  Features: discussion board, explore page, map page, breed information page, video page
+      </p>
+    </td>
+  </tr>
+  
+  
+<!-- 3rd row -->
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">On The Run</h3>
+      <br />
+      <a target="_blank" href="https://devpost.com/software/multiverse-chase">
+        <img src="docs/ontherun.gif" width="100%">
+      </a>
+      <br />
+      <p>
+        <a href="https://devpost.com/software/multiverse-chase" target="_blank">Devpost</a><br><br>
+        <strong>Python | Pygame</strong> <br><br> 
+        •   A side-scrolling platform game with a multiverse heist theme. Players collect items while being chased, and navigate obstacles to reach the next levels.<br>
+        •  Submission for Pygames Hackathon hosted by Microsoft
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">BeautiSense</h3>
+      <br />
+      <a target="_blank" href="https://devpost.com/software/beautisense">
+        <img src="docs/beautisense.png" width="100%">
+      </a>
+      <br />
+      <p>
+        <a href="https://devpost.com/software/beautisense" target="_blank">Devpost</a><br><br>
+        <strong>Python | OpenCV | Javascript</strong> <br><br> 
+        •  Idea Track Submission for ELC Accessible Beauty Hackathon<br>
+        •  An application that uses AI, facial recognition, and computer vision to provide personalized makeup guidance and accessibility features
+      </p>
+    </td>
+  </tr>
+  
+  
+</table><br>
 
 
 # 📈 Stats:
-<p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=t-iffany&langs_count=14&hide=yacc,cmake&show_icons=true&locale=en&layout=compact" width="45%" alt="t-iffany"/> 
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=t-iffany&show_icons=true&locale=en" width="50%" alt="t-iffany" />  
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=t-iffany&langs_count=14&hide=yacc,cmake&show_icons=true&locale=en&layout=compact" width="35%" alt="t-iffany"/> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=t-iffany&show_icons=true&locale=en" width="35%" alt="t-iffany" />  
 </p>
 
-<br>
+<br><br>
 
  # 💻 Technologies:
 
-<!-- <details>
-<summary>My Top Tech Stacks</summary>
-
-|           |
-|-----------|
-| JavaScript|
-| React     |
-| Node.js   |
-| SQL       |
-| Ruby      |
-| HTML      |
-| CSS       |
-
-</details> -->
 
 <table>  
   <tr>
