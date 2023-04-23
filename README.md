@@ -23,18 +23,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center">
-✨ 👩🏻‍💻 ✨
+<a href="https://tiffanyleong.vercel.app/" target="_blank">My Portfolio Site</a> || <a href="https://www.linkedin.com/in/tiffanyleong/" target="_blank">LinkedIn</a> || <a href="https://devpost.com/t-iffany" target="_blank">Devpost</a> || <a href="https://resume.creddle.io/resume/fg0759bs3gt" target="_blank">Resume</a>
 <br>
-I'm a Full Stack Developer with a background in nursing, informatics, and systems implementations
-</p>
-• Analytical problem solver with proven ability for empathizing with end-users, collaboration, communication, and adaptability
 
-• Determined to develop and optimize scalable websites and applications
-
-Looking forward to apply transferrable skills I gained as a nurse and informatics specialist to my career in tech. Let's chat about tech and interesting opportunities!
+Full Stack Developer experienced in systems implementations, informatics, and public health. 
 
 <br>
+
+# 👩🏻‍💻 Projects:
+
+<!-- <img src="docs/tiffportfolio.png" alt="Screenshot" width="300"/> -->
+<img src="docs/tiffportfolio.png" alt="Screenshot" style="max-width: 50%; height: auto;"/>
+
 
 # 📈 Stats:
 <p align="left">
