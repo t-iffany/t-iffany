@@ -1,13 +1,14 @@
 # Hi, I'm Tiffany 👋  
-<a href="https://tiffanyleong.vercel.app/" target="_blank">My Portfolio Site</a>  |  <a href="https://www.linkedin.com/in/tiffanyleong/" target="_blank">LinkedIn</a>  |  <a href="https://devpost.com/t-iffany" target="_blank">Devpost</a>  |  <a href="https://resume.creddle.io/resume/fg0759bs3gt" target="_blank">Resume</a>
+<a href="https://tiffanyleong.vercel.app/" target="_blank">My Portfolio Site</a>  |  <a href="https://www.linkedin.com/in/tiffanyleong/" target="_blank">LinkedIn</a>  |  <a href="https://devpost.com/t-iffany" target="_blank">Devpost</a>
 <br>
 
 <h3>
 Full Stack Developer experienced in systems implementations, informatics, and public health. <br><br>
 </h3>
 💡&nbsp;&nbsp;  I turn ideas into innovative web solutions <br><br>
-⚡️&nbsp;&nbsp;  I’m seeking <strong>developer/software engineer roles</strong> <br><br>
-🌱&nbsp;&nbsp;  I’m currently learning <strong>Python</strong>, <strong>React Native</strong>, and building a food delivery app clone <br><br>
+<!-- ⚡️&nbsp;&nbsp;  I’m seeking <strong>developer/software engineer roles</strong> <br><br> -->
+<!-- 🌱&nbsp;&nbsp;  I’m currently learning <strong>Python</strong>, <strong>React Native</strong>, and building a food delivery app clone <br><br> -->
+🌱&nbsp;&nbsp;  I’m currently learning <strong>Python</strong>, <strong>AWS</strong>, <strong>SQL</strong>, and <strong>AI/ML</strong> <br><br>
 📧&nbsp;&nbsp;  Let's chat about interesting <strong>opportunities</strong> or <strong>collabs</strong>!
 
 <br><br>
